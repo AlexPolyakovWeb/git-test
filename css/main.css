@@ -33,13 +33,16 @@ h1 {
 }
 
 .main {
-  text-align: center;
   background-color: #e7baac;
   color: #ffffff;
+}
+
+.main__title-h1 {
+  text-align: center;
 }
 
 .title-h1 {
   font-size: 100px;
   font-weight: 900;
-  letter-spacing: 1rem;
+  letter-spacing: 0.1em;
 }
