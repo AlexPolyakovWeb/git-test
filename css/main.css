@@ -8,10 +8,12 @@ body {
 }
 
 body {
+<<<<<<< HEAD
   margin: 0;
   padding: 0;
+=======
+>>>>>>> main
   line-height: 1.7;
-  color: #333;
 }
 
 h1,
@@ -42,6 +44,20 @@ h1 {
 .header__title-h1 {
   text-align: center;
 }
+.title-h1 {
+  font-size: 100px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+}
+.main {
+  background-color: #e7baac;
+  color: #ffffff;
+}
+
+.main__title-h1 {
+  text-align: center;
+}
+
 .title-h1 {
   font-size: 100px;
   font-weight: 900;
